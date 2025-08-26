@@ -1,0 +1,65 @@
+question,llm_answer,ground_truth
+AIG total revenue in FY 2022,56437000000,56437000000
+AIG cash in FY 2022,2216000000,2043000000
+AIG assets in FY 2022,"[
+    {
+        ""variable"": ""Assets"",
+        ""value"": ""526634000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""Assets""
+    },
+    {
+        ""variable"": ""AssetImpairmentCharges"",
+        ""value"": ""26000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""AssetImpairmentCharges""
+    },
+    {
+        ""variable"": ""AssetsHeldByInsuranceRegulators"",
+        ""value"": ""13600000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""AssetsHeldByInsuranceRegulators""
+    },
+    {
+        ""variable"": ""SummaryOfInvestmentsOtherThanInvestmentsInRelatedPartiesCost"",
+        ""value"": ""340287000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""SummaryOfInvestmentsOtherThanInvestmentsInRelatedPartiesCost""
+    },
+    {
+        ""variable"": ""InvestmentsFairValueDisclosure"",
+        ""value"": ""5060000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""InvestmentsFairValueDisclosure""
+    },
+    {
+        ""variable"": ""DebtSecuritiesAvailableForSaleRealizedGain"",
+        ""value"": ""446000000"",
+        ""units"": ""USD"",
+        ""fy"": ""2022"",
+        ""form"": ""10-K"",
+        ""accn"": ""0000005272-23-000007"",
+        ""filed"": ""2023-02-17"",
+        ""source"": ""DebtSecuritiesAvailableForSaleRealizedGain""
+    }
+]",526634000000
