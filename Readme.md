@@ -102,7 +102,7 @@ Summary: 3 queries → 1 exact, 1 numeric diff, 1 formatting error.
 2	AIG cash in FY 2022	2,216,000,000	2,043,000,000	173,000,000	8.47%	numeric_diff
 3	AIG assets in FY 2022	(JSON array returned; not a scalar)	526,634,000,000	—	—	formatting_error
 
-Note on row 3 (formatting): regarding a firmatting error I get,  I am working on its fix, but I leave ut to meet the deadline. The LLM returned a JSON array of objects instead of the expected single numeric scalar. This is tracked as a known issue (see below).
+Note on row 3 (formatting): regarding a formatting error I get,  I am working on its fix, but I leave it as it is to meet the deadline. The LLM returned a JSON array of objects instead of the expected single numeric scalar. This is tracked as a known issue (see below).
 
 Known issues (current state)
 
