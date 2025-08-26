@@ -1,3 +1,16 @@
+Update to fix the error I was facing — Aug 26, 2025
+
+I fixed an indexing initialization error and pushed a small update. Changes include:
+
+Corrected index build path initialization (now stable in “index” mode).
+
+Added fuzzy EDGAR fact mapping and MMR retriever tuning.
+
+Expanded evaluation → rag_eval_results.csv; added aig-10k-key-facts.csv.
+
+New script: improved-rag-sec.py.
+
+
 RAG over SEC Company Facts (CSV) with Chroma + Ollama
 
 This prototype implements a compact Retrieval-Augmented Generation (RAG) flow over SEC company facts stored in a CSV. It uses LangChain, ChromaDB (vector store), and Ollama (local LLM + embeddings). The script indexes SEC facts for American International Group, Inc. (AIG) 10-K rows and runs a small evaluation.
